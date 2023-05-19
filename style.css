@@ -1,0 +1,19 @@
+.bg-img1 {
+  background-color: #000;
+  height: 300px;
+  background-size: auto;
+  background-image: url("https://vietnamitx.com/attachments/top-hinh-nen-dong-wallpaper-engine-desktop-tuyet-dep-download-chon-loc-2021-jpg.2215/");
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: auto;
+  background-image: url();
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: auto;
+  background-image: url();
+}
+#myCarousel {
+  margin-top: 55px;
+}
